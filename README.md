@@ -1,4 +1,3 @@
-```markdown
 # Order Application
 
 Esta é uma aplicação Spring Boot para gerenciar pedidos, utilizando PostgreSQL como banco de dados e Kafka para mensageria.
@@ -67,4 +66,3 @@ As configurações da aplicação podem ser encontradas no arquivo `src/main/res
 ## Licença
 
 Este projeto está licenciado sob os termos da licença MIT.
-```
