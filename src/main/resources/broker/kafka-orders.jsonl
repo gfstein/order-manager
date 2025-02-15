@@ -1,0 +1,76 @@
+{
+  "orderId": "550e8400-e29b-41d4-a716-446655440000",
+  "products": [
+    {
+      "id": "63b1bdbc-6663-46b6-b7b0-10288eea2515",
+      "name": "Produto A",
+      "price": 100.00,
+      "quantity": 2
+    },
+    {
+      "id": "2d810f2c-3805-4cf2-8e81-f1bc7b04527f",
+      "name": "Produto B",
+      "price": 200.00,
+      "quantity": 1
+    },
+    {
+      "id": "6a32e1e0-074d-40ec-b520-898f4121fd84",
+      "name": "Produto C",
+      "price": 50.00,
+      "quantity": 3
+    }
+  ]
+}
+
+-------------
+
+{
+  "orderId": "a1b2c3d4-e5f6-41d4-a716-446655440000",
+  "products": [
+    {
+      "id": "347f0be5-c6e7-462a-ae2d-b81eaf778a5d",
+      "name": "Produto D",
+      "price": 75.00,
+      "quantity": 4
+    },
+    {
+      "id": "83bd7f8b-7848-4ceb-99b0-93518ecba7f3",
+      "name": "Produto E",
+      "price": 150.00,
+      "quantity": 2
+    }
+  ]
+}
+
+-----------
+
+{
+  "orderId": "e29b8400-550e-41d4-a716-446655440000",
+  "products": [
+    {
+      "id": "63b1bdbc-6663-46b6-b7b0-10288eea2515",
+      "name": "Produto A",
+      "price": 100.00,
+      "quantity": 1
+    },
+    {
+      "id": "2d810f2c-3805-4cf2-8e81-f1bc7b04527f",
+      "name": "Produto B",
+      "price": 200.00,
+      "quantity": 3
+    },
+    {
+      "id": "6a32e1e0-074d-40ec-b520-898f4121fd84",
+      "name": "Produto C",
+      "price": 50.00,
+      "quantity": 5
+    },
+    {
+      "id": "347f0be5-c6e7-462a-ae2d-b81eaf778a5d",
+      "name": "Produto D",
+      "price": 75.00,
+      "quantity": 2
+    }
+  ]
+}
+
